@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://dhruvmg-thoughts.netlify.app/
 languageCode: en-us
-title: Forty
+title: Portfolio Website for Dhruv Ghurburrun
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,20 +8,20 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+      #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+     #AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Dhruv Ghurburrun. I am 24 years old and I am from Mauritius. 
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
-        title: Address
+      - city: London
+        country: United Kingdom
+        street: Balcombe Street
+        title: 
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: dghurburrun.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
@@ -42,21 +42,21 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
+      #- #icon: fa-twitter
+        #label: Twitter
+        #url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
-      - icon: fa-instagram
-        label: Instagram
-        url: https://www.instagram.com
+        url: https://www.facebook.com/DhruvM.G
+      #- #icon: fa-instagram
+        #label: Instagram
+        #url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/dhruvMg1804
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/dhruv-ghurburrun-aa021a140/
   image: ''
   name: Your name
   navigation:
@@ -71,17 +71,17 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      #- name: Generic Blog
+        #url: blogs/ipsum
+      #- name: Elements
+        #url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
-    title: Forty
-  tiles:
+    title: meeee
+  tiles:A short biography
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: lbs.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Aliquam
         url: blogs/aliquam
@@ -116,3 +116,4 @@ params:
       amet pharetra et feugiat tempus."
     title: Massa libero
     url: blogs
+
