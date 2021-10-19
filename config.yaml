@@ -10,7 +10,7 @@ params:
     subtitle: |-
       #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
      #AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Dhruv Ghurburrun. I am 24 years old and I am from Mauritius. 
+    title: Hello. My name is Dhruv. Welcome to my website. 
   blog: {}
   contact:
     address:
@@ -81,39 +81,36 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: risk_return
+      - image: Mauritius.jpg
+        subtitle: Home
+        title: Mauritius
         url: blogs/risk_return1
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: My story
+        subtitle: Pursuit of happiness
+        title: My journey
         url: blogs/risk_return
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: Inspiration
+        title: Books
         url: blogs/magna
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: ipsum
+        subtitle: Pleasure 
+        title: Movies
         url: blogs/Story
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+      - image: Food.jpg
+        subtitle: Life
+        title: Food
         url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
+      - image: London.jpeg
+        subtitle: The City
+        title: London
         url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "Being passionate by investments and more specifically, stocks, I have built a small portfolio of stocks with my savings. 
+    Having lived in Mauritius for the past 2 years, I have invested in stocks listed in the stock exchange of Mauritius. 
+      "
+    title: Passion
     url: blogs
 

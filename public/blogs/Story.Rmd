@@ -1,0 +1,16 @@
+---
+title: "Risk-Return of DJIA stocks"
+date: '2021-09-30'
+description: Risk-Return of DJIA stocks
+draft: no
+image: spices.jpg
+keywords: ''
+slug: Story
+categories:
+- ''
+- ''
+---
+
+# 
+
+
