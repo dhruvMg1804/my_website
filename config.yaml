@@ -84,33 +84,35 @@ params:
       - image: Mauritius.jpg
         subtitle: Home
         title: Mauritius
-        url: blogs/risk_return1
-      - image: pic02.jpg
-        subtitle: Pursuit of happiness
-        title: My journey
         url: blogs/risk_return
-      - image: pic03.jpg
-        subtitle: Inspiration
-        title: Books
-        url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Pleasure 
-        title: Movies
-        url: blogs/Story
-      - image: Food.jpg
-        subtitle: Life
-        title: Food
-        url: blogs/ipsum
       - image: London.jpeg
         subtitle: The City
         title: London
-        url: blogs/ipsum
+        url: blogs/risk_return3
+      - image: library.jpg
+        subtitle: Inspiration
+        title: Books
+        url: blogs/risk_return4
+      - image: movies.jpg
+        subtitle: Pleasure 
+        title: Movies
+        url: blogs/risk_return2
+      - image: Food.jpg
+        subtitle: Life
+        title: Food
+        url: blogs/risk_return5
+      - image: Road.jpg
+        subtitle: What's next?
+        title: My Future 
+        url: blogs/risk_return6
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Being passionate by investments and more specifically, stocks, I have built a small portfolio of stocks with my savings. 
-    Having lived in Mauritius for the past 2 years, I have invested in stocks listed in the stock exchange of Mauritius. 
+    subtitle: " My motto in life is be patient for the goals you seek and be happy in the meantime. Enjoy the journey as much as possible. 
+    While I try to make it as an investment specialist in the City of London, I am trying to enjoy the little things that I encounter on my way. 
+    It is not always easy when you are very ambitious and you encounter failure at every corner but I know that there is light at the end of the tunnel
+    and I just need to walk the path down there. In the mean time, I'm trying to fill this website with my life and trying to inspire people with this philosophy.
       "
-    title: Passion
+    title: What makes me tick?
     url: blogs
 
